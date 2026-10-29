@@ -1,0 +1,4 @@
+Flask>=3.0
+segno>=1.6
+
+Pillow>=11.0
